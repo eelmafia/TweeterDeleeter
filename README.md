@@ -1,11 +1,11 @@
 # Tweeter Deleeter
 
-### Delete all your Twitter (currently known as X) activity
+## Delete all your Twitter (currently known as X) activity
 I was tired of the slop that Twitter (currently known as X) has become  so I quickly wrote this to nuke my activity. 
 
 Use it to remove all your tweets, retweets, replies, quotes, media & likes <sup>(they're private now but you never know!) <sup> 
 
-### How to use
+## How to use
 The script needs you to add 4 values to it in order to work. These are: your username, Authorization, X-Client-Transaction-Id, X-Client-Uuid
 
 Steps
@@ -18,4 +18,4 @@ Steps
  7. Press enter, it should do the rest
 
 Screenshot for reference. If the first request you click on doesn't have the 3 tokens you need keep looking for one that has. 
-![deeleter](https://github.com/user-attachments/assets/2887f9fb-956b-4de8-9c21-f88d171919cb)
+![deeleter](https://github.com/user-attachments/assets/72a94186-704d-4c13-9715-d8658b650473)
