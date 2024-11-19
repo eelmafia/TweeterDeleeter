@@ -6,6 +6,12 @@ I was tired of the slop that Twitter (currently known as X) has become  so I qui
 Use it to remove all your tweets, retweets, replies, quotes, media & likes <sup>(they're private now but you never know!) <sup> 
 
 ## How to use
+
+I turned this into a Chrome extension with no user effort required. If you're using Chrome consider using that instead. 
+
+* [Chrome web store link](https://chromewebstore.google.com/detail/tweeter-deleeter/abgmheddoaokgganklgbjbnkdfjijign)
+* [Extension sourcecode here](https://github.com/eelmafia/Tweeter-Deleeter-Extension)
+
 The script needs you to add 4 values to it in order to work. These are: your username, Authorization, X-Client-Transaction-Id, X-Client-Uuid
 
 Steps
